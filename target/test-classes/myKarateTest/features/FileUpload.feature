@@ -1,5 +1,5 @@
 @uploadTest
-Feature: CRUD Operations
+Feature: File Upload Test
 
   Background:
     * url 'https://filebin.net'
