@@ -1,3 +1,4 @@
+@usersCRUD
 Feature: CRUD Operations
 
   Background:
