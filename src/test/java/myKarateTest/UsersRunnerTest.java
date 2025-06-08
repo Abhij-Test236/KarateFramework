@@ -7,7 +7,7 @@ class UsersRunnerTest {
     
     @Karate.Test
     Karate testUsers() {
-        return Karate.run().tags("@uploadTest").relativeTo(getClass());
-    }    
+        return Karate.run().tags().relativeTo(getClass());
+    } 
 
 }
