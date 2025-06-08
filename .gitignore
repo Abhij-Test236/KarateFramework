@@ -40,8 +40,9 @@
 
 **/.idea/
 
-.settings
-.classpath
+**/.settings/
+**/.classpath
+**/.project
 
 
 **/HELP.md
