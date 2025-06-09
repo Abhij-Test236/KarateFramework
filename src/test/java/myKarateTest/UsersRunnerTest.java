@@ -7,7 +7,7 @@ class UsersRunnerTest {
     
     @Karate.Test
     Karate testUsers() {
-        return Karate.run().tags("@JSfunctiontTest").relativeTo(getClass());
+        return Karate.run().tags().relativeTo(getClass());
     } 
 
 }
